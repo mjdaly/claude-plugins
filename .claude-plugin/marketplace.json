@@ -1,6 +1,9 @@
 {
   "name": "alpha-signals-plugins",
   "description": "Local plugins for the Alpha Signals project",
+  "owner": {
+    "name": "Alpha Signals"
+  },
   "plugins": [
     {
       "name": "review-fix-loop",
