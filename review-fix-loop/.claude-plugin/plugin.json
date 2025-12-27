@@ -1,6 +1,6 @@
 {
   "name": "review-fix-loop",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Iterative code review and fix plugin. Spawns a subagent to review code until clean (max 5 passes).",
   "author": {
     "name": "Alpha Signals"
